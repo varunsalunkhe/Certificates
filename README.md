@@ -1,1 +1,1 @@
-<img src="https://github.com/varunsalunkhe/varunsalunkhe/blob/main/data/header.jpg" alt="Certificates" width = 100%>
+<img src="https://github.com/varunsalunkhe/Certificates/blob/master/Template/certification.gif" alt="Certificates" width = 100%>
